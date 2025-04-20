@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![C#](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)-->
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -22,15 +22,19 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=kubernetes&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 **Web3/Blockchain:**  
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?logo=hardhat&logoColor=black)
 
+
 ## 💡 Core Strengths  
 
+- **API Architecture**: Built scalable backends with Flask and Node.js  
 - **Real-Time Systems**: Built enterprise chat platforms handling 500+ concurrent users  
 - **Pixel-Perfect UIs**: 99% design-system compliance across projects  
+- **Performance Optimization**: 50%+ speed improvements across applications  
 - **NestJS Microservices**: Developed scalable backend architectures  
 - **Cross-Team Collaboration**: Tools bridging departmental silos  
 
