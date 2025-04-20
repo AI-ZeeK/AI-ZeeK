@@ -50,7 +50,7 @@
 ✅ Reduced API latency by **35%** through query optimization  
 ✅ Implemented **JWT authentication** across 12+ services  
 
-<-- ## 📌 Featured Projects  
+<!-- ## 📌 Featured Projects  
 
 [![Chat System](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=enterprise-chat)](https://github.com/yourname/enterprise-chat)
 [![UI Library](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=design-system)](https://github.com/yourname/design-system) -->
