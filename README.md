@@ -1,5 +1,5 @@
 # Hi, I'm Isaac 👋  
-### Full Stack Developer | Web3 Enthusiast | Python/JS Specialist  
+### Full Stack Developer | Communication Systems Architect | UI Specialist
 
 ## 🛠️ Tech Stack  
 
@@ -8,7 +8,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
-![C#](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -16,41 +15,51 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+**Backend/Microservices:**  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=kubernetes&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 
 **Web3/Blockchain:**  
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?logo=hardhat&logoColor=black)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)
 
 ## 💡 Core Strengths  
 
-- **API Architecture**: Built scalable backends with Flask and Node.js  
-- **Web3 Integration**: Smart contracts, Ethers.js, and Hardhat experience  
-- **Performance Optimization**: 50%+ speed improvements across applications  
-- **Full-Stack Proficiency**: From React UIs to blockchain backends  
+- **Real-Time Systems**: Built enterprise chat platforms handling 500+ concurrent users  
+- **Pixel-Perfect UIs**: 99% design-system compliance across projects  
+- **NestJS Microservices**: Developed scalable backend architectures  
+- **Cross-Team Collaboration**: Tools bridging departmental silos  
 
 ## 🏆 Key Achievements  
 
-✅ Developed Flask microservices handling 10K+ RPM  
-✅ Built Web3 integrations with Ethers.js and Hardhat  
-✅ Reduced API latency by 40% through query optimization  
-✅ Created cross-platform apps with React Native  
+**Enterprise Chat System**  
+✅ Built real-time chat platform for **multi-branch company** using NestJS microservices  
+✅ Enabled **cross-department communication** with 80% adoption in 2 months  
+✅ Reduced inter-team email volume by **40%**  
+✅ Implemented **WebSocket fallbacks** for unstable networks  
 
-## 📌 Featured Projects  
+**UI Excellence**  
+✅ Achieved **pixel-perfect implementations** with 99% design matching  
+✅ Developed **shared component library** reducing UI bugs by 65%  
+✅ Created **responsive layouts** working flawlessly across 50+ devices  
 
-[![Web3 Project](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=web3-project)](https://github.com/yourname/web3-project)
-[![Flask API](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=flask-api)](https://github.com/yourname/flask-api)
+**NestJS Microservices**  
+✅ Scaled backend to handle **10K+ RPM** with 99.9% uptime  
+✅ Reduced API latency by **35%** through query optimization  
+✅ Implemented **JWT authentication** across 12+ services  
+
+// ## 📌 Featured Projects  
+
+// [![Chat System](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=enterprise-chat)](https://github.com/yourname/enterprise-chat)
+// [![UI Library](https://github-readme-stats.vercel.app/api/pin/?username=yourname&repo=design-system)](https://github.com/yourname/design-system)
 
 ## 🌱 Currently Learning  
 
-- Advanced Flask Blueprints and Extensions  
-- .NET Core for enterprise applications  
-- Zero-Knowledge Proofs in Web3  
+- Advanced NestJS microservice patterns  
+- Web3 real-time data integration  
+- Animation performance optimization  
 
 ## 📫 Let's Connect  
 
