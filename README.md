@@ -31,7 +31,7 @@
 
 ## 💡 Core Strengths  
 
-- **API Architecture**: Built scalable backends with Flask and Node.js  
+- **API Architecture**: Built scalable backends with .Net and Node.js  
 - **Real-Time Systems**: Built enterprise chat platforms handling 500+ concurrent users  
 - **Pixel-Perfect UIs**: 99% design-system compliance across projects  
 - **Performance Optimization**: 50%+ speed improvements across applications  
