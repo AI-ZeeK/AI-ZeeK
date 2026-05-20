@@ -1,5 +1,5 @@
 # Hi, I'm Isaac 👋  
-### Full Stack Developer | Communication Systems Architect | UI Specialist
+### Software Engineer | System Architect | UI Specialist
 
 ## 🛠️ Tech Stack  
 
